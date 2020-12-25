@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Product Sans'),url("./fonts/ProductSansRegular.ttf") format("truetype")
+}
+
+
+body, html {
+  height: 100%;
+}
+
+.body {
+  font-family: 'Product Sans';
+}
+
+.pagediv {
+  background-color: rgba(17, 17, 17, 0.555);
+}
+
+.textblock {
+  height: 344px
+}
+
+.chevrondiv {
+  background-color: rgba(75, 75, 75, 0.897);
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("./Images/autumn1080p.png");
+  
+  /* Full height */
+  height: 100%; 
+  /* width: 100%; */
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
