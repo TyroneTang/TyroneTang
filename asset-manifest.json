@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/TyroneTang/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/TyroneTang/static/js/main.ec4265d5.chunk.js",
-    "main.js.map": "/TyroneTang/static/js/main.ec4265d5.chunk.js.map",
-    "runtime-main.js": "/TyroneTang/static/js/runtime-main.70016e5a.js",
-    "runtime-main.js.map": "/TyroneTang/static/js/runtime-main.70016e5a.js.map",
-    "static/js/2.11f2d4f9.chunk.js": "/TyroneTang/static/js/2.11f2d4f9.chunk.js",
-    "static/js/2.11f2d4f9.chunk.js.map": "/TyroneTang/static/js/2.11f2d4f9.chunk.js.map",
-    "static/js/3.41dd559b.chunk.js": "/TyroneTang/static/js/3.41dd559b.chunk.js",
-    "static/js/3.41dd559b.chunk.js.map": "/TyroneTang/static/js/3.41dd559b.chunk.js.map",
+    "main.css": "/TyroneTang/static/css/main.39bff640.chunk.css",
+    "main.js": "/TyroneTang/static/js/main.c66cbaad.chunk.js",
+    "main.js.map": "/TyroneTang/static/js/main.c66cbaad.chunk.js.map",
+    "runtime-main.js": "/TyroneTang/static/js/runtime-main.3d44ba4c.js",
+    "runtime-main.js.map": "/TyroneTang/static/js/runtime-main.3d44ba4c.js.map",
+    "static/css/2.0e480839.chunk.css": "/TyroneTang/static/css/2.0e480839.chunk.css",
+    "static/js/2.c098c6de.chunk.js": "/TyroneTang/static/js/2.c098c6de.chunk.js",
+    "static/js/2.c098c6de.chunk.js.map": "/TyroneTang/static/js/2.c098c6de.chunk.js.map",
+    "static/js/3.a931e99b.chunk.js": "/TyroneTang/static/js/3.a931e99b.chunk.js",
+    "static/js/3.a931e99b.chunk.js.map": "/TyroneTang/static/js/3.a931e99b.chunk.js.map",
     "index.html": "/TyroneTang/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/TyroneTang/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.11f2d4f9.chunk.js.LICENSE.txt": "/TyroneTang/static/js/2.11f2d4f9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/TyroneTang/static/media/logo.6ce24c58.svg"
+    "static/css/2.0e480839.chunk.css.map": "/TyroneTang/static/css/2.0e480839.chunk.css.map",
+    "static/css/main.39bff640.chunk.css.map": "/TyroneTang/static/css/main.39bff640.chunk.css.map",
+    "static/js/2.c098c6de.chunk.js.LICENSE.txt": "/TyroneTang/static/js/2.c098c6de.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TyroneTang/static/media/autumn1080p.7bf5c7ea.png",
+    "static/media/project1.bc42c962.png": "/TyroneTang/static/media/project1.bc42c962.png",
+    "static/media/project2.53a66962.png": "/TyroneTang/static/media/project2.53a66962.png",
+    "static/media/project3.cdf00b0a.png": "/TyroneTang/static/media/project3.cdf00b0a.png",
+    "static/media/project4.6a560d7b.png": "/TyroneTang/static/media/project4.6a560d7b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.70016e5a.js",
-    "static/js/2.11f2d4f9.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.ec4265d5.chunk.js"
+    "static/js/runtime-main.3d44ba4c.js",
+    "static/css/2.0e480839.chunk.css",
+    "static/js/2.c098c6de.chunk.js",
+    "static/css/main.39bff640.chunk.css",
+    "static/js/main.c66cbaad.chunk.js"
   ]
 }
